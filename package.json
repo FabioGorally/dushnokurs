@@ -15,7 +15,6 @@
     "not dead"
   ],
   "devDependencies": {
-    "vite": "^4.1.4",
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
     "babel": "^6.23.0",
@@ -24,12 +23,12 @@
     "browser-sync": "^2.26.7",
     "core-js": "^3.4.2",
     "gulp": "^4.0.2",
+    "vite": "^4.1.4",
     "webpack": "^4.41.2",
     "webpack-stream": "^5.2.1"
   },
-  
   "dependencies": {
-    "jquery": "^3.6.0",
+    "jquery": "^3.7.1",
     "slick-carousel": "^1.8.1"
   }
 }
